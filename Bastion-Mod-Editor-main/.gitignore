@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/warno_api_v2/x64/Debug
+/warno_api_v2/x64/Release
+/warno_api_v2/directories.txt
